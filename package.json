@@ -1,0 +1,12 @@
+{
+  "name": "dash_hue",
+  "version": "1.0.0",
+  "description": "Control your Hue installation with your Amazon Dash button",
+  "main": "index.js",
+  "author": "Michael Vieira (@themimitoof) <contact[at]mvieira[dot]fr> ",
+  "license": "MIT",
+  "dependencies": {
+    "node-dash-button": "^0.6.1",
+    "node-hue-api": "^2.3.0"
+  }
+}
